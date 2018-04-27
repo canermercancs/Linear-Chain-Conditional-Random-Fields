@@ -8,3 +8,4 @@ The learning involves the computation of alpha and beta tables via forward-backw
 
 
 Caner Mercan
+# Linear-Chain-Conditional-Random-Fields
