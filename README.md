@@ -1,4 +1,4 @@
-# Linear-Chain-Conditional-Random-Fields
+# Linear-Chain Conditional Random Fields (CRFs)
 
 Contains the implementation of a linear chain Conditional Random Fields model using the template from the great Machine Learning lectures of Hugo Larochelle. 
 
